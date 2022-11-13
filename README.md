@@ -2,7 +2,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+
 created this page as a learning tool and also a reference point to look back at the learning outcomes.
 i am motivated to complete this bootcamp to move on to a career in software and app development.
 during building of this page i solved problems of Git and and tracking and learned th eimportance of version control
